@@ -1,4 +1,4 @@
-# Cake Shop Website
+# Cake Shop Webite
 
 This repository contains the source code for a Cake Shop website, featuring a beautiful and responsive design to showcase various cakes, pastries, and desserts. The site allows customers to browse through the menu, view images of the cakes, and contact the shop for orders.
 
@@ -25,13 +25,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mayank7456/cake-shop-website.git
+    git clone https://github.com/mayank7456/cake-shop-web.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd cake-shop-website
+    cd cake-shop-web
     ```
 
 3. **Open the `index.html` file:**
@@ -59,6 +59,4 @@ Contributions are welcome! If you have suggestions, bug reports, or pull request
 4. Push to the branch (`git push origin feature-branch-name`).
 5. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
